@@ -6,10 +6,11 @@ Vortex's [VTXCart](https://github.com/xvortex/VTXCart/tree/main) project allows 
 This neogeo-161in1-daughterboard project is a replacement daughterboard that uses a through hole version of the 1.27mm DIP connector.
 
 **Bare Boards:**<br>
-TODO
+![bare boards](images/bare_board.jpg)
 
 **Assembled Top/Bottom:**<br>
-TODO
+![assembled top](images/assembled_top.jpg)
+![assembled bottom](images/assembled_bottom.jpg)
 
 ## Manufacturing
 You should select board thickness of 0.8mm.

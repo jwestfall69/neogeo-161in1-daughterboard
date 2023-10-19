@@ -38,4 +38,4 @@ The dip male connectors are dual row 1.27mm, 22 pins per row, 44 pins total per 
 I'm going to assume you don't really need soldering advice if you are taking on the task of making a VTXCart.  But I will warn you to be careful when soldering the dip connector.  It doesn't seem to take much heat and side pressure to cause the individual pins to shift around and you can end up with pins pointing all over the place instead of 2 straight lines.
 
 ## Install
-TODO
+![installed](images/installed.jpg)
